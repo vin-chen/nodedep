@@ -4,9 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "postinstall": "echo \"COOOOOOOOOOOOOOOOOOOOOOOOOOL\""
+    "postinstall": "echo \"COOOOOOOOOOOOOOOOOOOOOOOOOOL\" && touch viiiin.test"
   },
-  "depedencies": {
+  "dependencies": {
     "lodash": "latest"
   },
   "repository": {

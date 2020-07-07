@@ -7,7 +7,7 @@
     "postinstall": "cp-cli hello.txt test.txt"
   },
   "dependencies": {
-    "cp_cli": "~1.1.0"
+    "cp-cli": "~1.1.0"
   },
   "repository": {
     "type": "git",

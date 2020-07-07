@@ -1,0 +1,22 @@
+{
+  "name": "nodedep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "echo \"COOOOOOOOOOOOOOOOOOOOOOOOOOL\""
+  },
+  "depedencies": {
+    "lodash": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vin-chen/nodedep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vin-chen/nodedep/issues"
+  },
+  "homepage": "https://github.com/vin-chen/nodedep#readme"
+}
